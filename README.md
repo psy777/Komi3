@@ -1,6 +1,6 @@
-# Indie Kit
+# Komi3
 
-Indie Kit is a NextJS Boilerplate for building SaaS products.
+Komi3 is AI GO Reviewing SaaS built with a NextJS Boilerplate.
 
 ## Features
 
